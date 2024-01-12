@@ -24,7 +24,7 @@ The Wi-Fi Login Application for Windows is a user-friendly utility designed to s
 
 ## Screenshots
 
-![App Screenshot](/screenshots/Caputure.png)
+![App Screenshot](/screenshots/Capture.PNG)
 
 ![App Screenshot](/screenshots/Caputure.PNG/468x300?text=App+Screenshot+Here)
 ![App Screenshot](/screenshots/Caputure.PNG/468x300?text=App+Screenshot+Here)
